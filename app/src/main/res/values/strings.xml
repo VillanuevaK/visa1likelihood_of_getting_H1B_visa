@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">visa1</string>
+    <string name="instructions">Type in Socname, fulltimepos, prevailing wage,state ,lon, lat</string>
+    <string name="write_text_into_file">Write Text into File</string>
+    <string name="read_text_from_file">Read Text From file</string>
+    <string name="nameOfFile">mytextfile.txt</string>
+</resources>
